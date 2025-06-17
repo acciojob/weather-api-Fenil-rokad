@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#weatherData {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
